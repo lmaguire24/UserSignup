@@ -15,4 +15,3 @@ namespace UserSignup.Models
         // add a constructor to set the CreateDate when a new user is instantiated        
     }
 }
-
